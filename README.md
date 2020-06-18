@@ -1,5 +1,5 @@
 
-## Published [here](https://god-t.github.io/React_Node_Express_app/).
+## Published [here](https://god-t.github.io/a-simple-shopping-cart-model/).
 
 
 
