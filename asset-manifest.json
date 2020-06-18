@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/React_Node_Express_app/static/css/main.523f09c5.chunk.css",
-    "main.js": "/React_Node_Express_app/static/js/main.980304a6.chunk.js",
-    "main.js.map": "/React_Node_Express_app/static/js/main.980304a6.chunk.js.map",
-    "runtime-main.js": "/React_Node_Express_app/static/js/runtime-main.33915548.js",
-    "runtime-main.js.map": "/React_Node_Express_app/static/js/runtime-main.33915548.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/React_Node_Express_app/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.90c8b314.chunk.js": "/React_Node_Express_app/static/js/2.90c8b314.chunk.js",
-    "static/js/2.90c8b314.chunk.js.map": "/React_Node_Express_app/static/js/2.90c8b314.chunk.js.map",
-    "index.html": "/React_Node_Express_app/index.html",
-    "precache-manifest.ad51209ae178d4bd9bdd4b0a0e23eef0.js": "/React_Node_Express_app/precache-manifest.ad51209ae178d4bd9bdd4b0a0e23eef0.js",
-    "service-worker.js": "/React_Node_Express_app/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/React_Node_Express_app/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.523f09c5.chunk.css.map": "/React_Node_Express_app/static/css/main.523f09c5.chunk.css.map",
-    "static/js/2.90c8b314.chunk.js.LICENSE.txt": "/React_Node_Express_app/static/js/2.90c8b314.chunk.js.LICENSE.txt"
+    "main.css": "/a-simple-shopping-cart-model/static/css/main.523f09c5.chunk.css",
+    "main.js": "/a-simple-shopping-cart-model/static/js/main.93ea91cb.chunk.js",
+    "main.js.map": "/a-simple-shopping-cart-model/static/js/main.93ea91cb.chunk.js.map",
+    "runtime-main.js": "/a-simple-shopping-cart-model/static/js/runtime-main.36343944.js",
+    "runtime-main.js.map": "/a-simple-shopping-cart-model/static/js/runtime-main.36343944.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/a-simple-shopping-cart-model/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.90c8b314.chunk.js": "/a-simple-shopping-cart-model/static/js/2.90c8b314.chunk.js",
+    "static/js/2.90c8b314.chunk.js.map": "/a-simple-shopping-cart-model/static/js/2.90c8b314.chunk.js.map",
+    "index.html": "/a-simple-shopping-cart-model/index.html",
+    "precache-manifest.a9e7d1605902b0792d68410998ac13e7.js": "/a-simple-shopping-cart-model/precache-manifest.a9e7d1605902b0792d68410998ac13e7.js",
+    "service-worker.js": "/a-simple-shopping-cart-model/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/a-simple-shopping-cart-model/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.523f09c5.chunk.css.map": "/a-simple-shopping-cart-model/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.90c8b314.chunk.js.LICENSE.txt": "/a-simple-shopping-cart-model/static/js/2.90c8b314.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.33915548.js",
+    "static/js/runtime-main.36343944.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.90c8b314.chunk.js",
     "static/css/main.523f09c5.chunk.css",
-    "static/js/main.980304a6.chunk.js"
+    "static/js/main.93ea91cb.chunk.js"
   ]
 }
