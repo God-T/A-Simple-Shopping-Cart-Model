@@ -1,5 +1,5 @@
 
-## Published [Here](https://god-t.github.io/React-A-Simple-Shopping-Cart-Model/).
+## Published [Here](https://god-t.github.io/Shopping-Cart-Model-React/).
 
 
 
