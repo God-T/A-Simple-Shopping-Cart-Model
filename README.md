@@ -1,5 +1,5 @@
 
-## Published [Here](https://god-t.github.io/a-simple-shopping-cart-model/).
+## Published [Here](https://god-t.github.io/A-Simple-Shopping-Cart-Model/).
 
 
 
