@@ -18,7 +18,7 @@ class App extends Component {
     console.log("App - Constructor");
   }
 
-  //invoke after any updates with props or states
+  //invoke after any updates with props or states that caused component change
   componentDidUpdate(prevProps, prevState) {
     //console.log("app - update");
     //decide whether we can make Ajax call based on previous props or State
