@@ -1,5 +1,4 @@
-
-## Published [Here](https://god-t.github.io/Shopping-Cart-Model-React/).
+## Published [Here](https://god-t.github.io/Shopping-Cart-Model---React).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
